@@ -1,0 +1,1 @@
+try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},t=new e.Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="501f57d1-c468-4a1e-aa13-f4cfec251e02",e._sentryDebugIdIdentifier="sentry-dbid-501f57d1-c468-4a1e-aa13-f4cfec251e02")}catch{}const s={};export{s as default};
